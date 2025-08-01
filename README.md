@@ -1,1 +1,2 @@
 # Water-Quality-Analysis-Using-Machine-Learning
+This project employs machine learning to assess water potability, determining whether water samples are safe for consumption based on user-provided input values. Built with Python and libraries like NumPy, Pandas, Seaborn, Matplotlib, and Scikit-learn, it analyzes features such as pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic Carbon, Trihalomethanes, and Turbidity. The model predicts water safety, making it a valuable tool for researchers and environmentalists.
